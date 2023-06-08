@@ -1,2 +1,3 @@
 #!/bin/bash
-file School.SCHOOL
+0 string SCHOOL School found
+!:mime text/School
