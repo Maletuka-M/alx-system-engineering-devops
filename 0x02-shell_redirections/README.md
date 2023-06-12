@@ -1,0 +1,1 @@
+All scripts are tested on Ubuntu 20.04 LTS. All scripts have exactly two lines. All files end with a new line. The first line of all files is #!/bin/bash. All files are executable. The use of &&, ||, ;, sed and awk are prohibited.
