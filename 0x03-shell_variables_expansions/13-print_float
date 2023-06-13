@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM | bash | echo $NUM
+export NUM | bash | echo $NUM | %.2f
