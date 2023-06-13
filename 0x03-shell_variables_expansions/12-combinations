@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "$(echo -e {a..z}{a..n}'\n'{a..z}{p..z})"
