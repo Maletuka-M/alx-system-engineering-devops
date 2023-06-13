@@ -1,0 +1,1 @@
+Allowed editors vi, vim,emacs \n All the scrips are tested on Ubuntu 20.04 LTS \n All the scripts should be exactlyy two lines long \n The first line of all files should be #!/bin/bash \n Not allowed to use &&, ||, ; \n not allowed to use bc, sed, awk \n All files must be executable
